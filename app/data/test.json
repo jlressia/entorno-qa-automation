@@ -1,0 +1,16 @@
+[
+    {
+        "types":[Sabor | Destacado | Cafeteria | Etc..],
+        "prices":{
+            {
+                "SKU":"1234",
+                "Name":"Nombre",
+                "Descripcion":"descripción producto",
+                "Price":120.00,
+                "Type":"id de tipo de producto definido en types"
+            }
+        }
+    
+    }
+]
+    
