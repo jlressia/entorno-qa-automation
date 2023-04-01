@@ -4,7 +4,7 @@ services:
   app:
     build: .
     # network_mode: "host" #Habilita la conectividad del host
-    container_name: fastapi
+    container_name: fastapi_QA
     ports:
       - "8080:80"    
     volumes: 
